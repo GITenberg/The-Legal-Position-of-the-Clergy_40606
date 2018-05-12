@@ -1,0 +1,29 @@
+_repo: The-Legal-Position-of-the-Clergy_40606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Philip Vernon
+    alias: Smith, P. V. (Philip Vernon)
+    birthdate: 1845
+    deathdate: 1929
+    gutenberg_agent_id: '40725'
+    url: http://www.gutenberg.org/2009/agents/40725
+description: ''
+gutenberg_issued: '2012-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ecclesiastical law -- Great Britain'
+- !lcc 'KD'
+- !lcsh 'Clergy -- Legal status, laws, etc. -- Great Britain'
+- !lcsh 'Canon law'
+title: The Legal Position of the Clergy
+url: http://www.gutenberg.org/ebooks/40606
